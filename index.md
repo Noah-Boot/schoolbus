@@ -5,7 +5,7 @@ title: Home
 
 ## Welcome to my fundraising page
 
-Hello! I'm Joseph and I'm 7 years old.
+Hello! I'm Noah and I'm 5 years old (nearly 6!).
 
 I am raising money for my school <a href="https://www.birkenshawprimary.org.uk/" target="_blank">Birkenshaw C.E. (C) Primary School</a> to support the funding of the annual leasing of the minibus. The minibus has been a fabulous addition to school and benefited children across all year groups. 
 
@@ -18,7 +18,7 @@ It would be awesome if you could help me & the school reach our targets by donat
 Thank you for visiting and look forward to drawing your idea.
 
 ### How am I going to raise the money?
-After I have received your sponsorship and donation I will attempt to draw a picture of your choosing & post it on my website for the world to see. My favourite things to draw at the moment are characters from Sonic The Hedgehog, Super Mario, Minecraft and Among Us. But I am up for a challenge, so please don't let these things limit your choices of things for me to draw.
+After I have received your sponsorship and donation I will attempt to draw a picture of your choosing & post it on my website for the world to see. My favourite things to draw at the moment are Sonic The Hedgehog, Numberblocks & The Solar System. But I am up for a challenge, so please don't let these things limit your choices of things for me to draw.
 
 ### How can you sponsor me?
 1. Complete the <a href="/schoolbus/sponsor">sponsorship form</a> with your Name, Address (for GiftAid) and your picture request.
