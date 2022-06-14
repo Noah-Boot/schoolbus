@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+---
 
-You can use the [editor on GitHub](https://github.com/Noah-Boot/schoolbus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my fundraising page
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! I'm Joseph and I'm 7 years old.
 
-### Markdown
+I am raising money for my school <a href="https://www.birkenshawprimary.org.uk/" target="_blank">Birkenshaw C.E. (C) Primary School</a> to support the funding of the annual leasing of the minibus. The minibus has been a fabulous addition to school and benefited children across all year groups. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The minibus costs school £5000.00 each school year and I, amongst other children in school are raising a small amount money each with the hope that it collectively contributes towards a larger amount to keep the minibus going for our next school year.
 
-```markdown
-Syntax highlighted code block
+Our school have set the **2022 Challenge** which within the last month before the end of the school year they are encouraging the children to raise **at least £20.22**!
 
-# Header 1
-## Header 2
-### Header 3
+It would be awesome if you could help me & the school reach our targets by donating any little amount you can afford, whether that be 20p, 50p, £1 or more!
 
-- Bulleted
-- List
+Thank you for visiting and look forward to drawing your idea.
 
-1. Numbered
-2. List
+### How am I going to raise the money?
+After I have received your sponsorship and donation I will attempt to draw a picture of your choosing & post it on my website for the world to see. My favourite things to draw at the moment are characters from Sonic The Hedgehog, Super Mario, Minecraft and Among Us. But I am up for a challenge, so please don't let these things limit your choices of things for me to draw.
 
-**Bold** and _Italic_ and `Code` text
+### How can you sponsor me?
+1. Complete the <a href="/schoolbus/sponsor">sponsorship form</a> with your Name, Address (for GiftAid) and your picture request.
+2. Send your donation to my Dads <a href="https://paypal.me/andyboot" target="_blank">PayPal.me page</a>.
+3. I will draw & upload your requested picture and post here along with your name.
 
-[Link](url) and ![Image](src)
-```
+### Gallery
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+{% if site.posts and site.posts.size != 0 %}
 
-### Jekyll Themes
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Noah-Boot/schoolbus/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    <div class="row listrecent">
 
-### Support or Contact
+        {% for post in site.posts %}
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        {% include postbox.html %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+{% else %}
+
+No pictures just yet, check again later. Or, why not be my first sponsor!?
+
+{% endif %}
