@@ -32,7 +32,7 @@ window.addEventListener("load", function() {
 });  
 </script>
 
-<form name="gform" id="gform" method="POST" action="https://script.google.com/macros/s/AKfycbwRFvtpfJc9xs0G_KP-BELHVkP2FLvde_BM42k7f-w2ORsUZGuaNjSuQ7aoGSHqwBpkzA/exec">
+<form name="gform" id="gform" method="POST" action="https://script.google.com/macros/s/AKfycby6meHBpNKK8BfRodZ4mcmLLCN-FewUFzJu9Bh1wP5LPBdSif06Fx9OrtD_z5FDvD4PQg/exec">
   <div class="container">
     <div class="row">
       <div class="col-sm">
