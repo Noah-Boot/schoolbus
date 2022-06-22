@@ -5,7 +5,7 @@ title: "Noah Boot - Fundraising Page"
 description: "A fundraising page for Birkenshaw C.E. (C) Primary School to raise money for the annual costs of their school bus."
 remote_theme: wowthemesnet/mediumish-theme-jekyll
 
-background_colour: "#7de074"
+background_colour: "linear-gradient(180deg, #7de074, #ffffff)"
 goalcurrent: "£16.50"
 goalcurrentpercentage: "82%"
 goaltarget: "£20.22"
