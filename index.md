@@ -25,6 +25,10 @@ After I have received your sponsorship and donation I will attempt to draw a pic
 2. Send your donation to my Dads <a href="https://paypal.me/andyboot" target="_blank">PayPal.me page</a>.
 3. I will draw & upload your requested picture and post here along with your name.
 
+### THANK YOU
+Noah would like to thank everybody who donated, got involved and helped exceed the target which his school had set.
+<img src="https://noah-boot.github.io/schoolbus/assets/images/posts/Scan%20-%202022-07-11%2019_49_29.jpeg" />
+
 ### Gallery
 
 {% if site.posts and site.posts.size != 0 %}
