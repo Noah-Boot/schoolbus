@@ -5,7 +5,7 @@ title: Home
 
 ## Welcome to my fundraising page
 
-Hello! I'm Noah and I'm 5 years old (nearly 6!).
+Hello! I'm Noah and I'm 6 years old.
 
 I am raising money for my school <a href="https://www.birkenshawprimary.org.uk/" target="_blank">Birkenshaw C.E. (C) Primary School</a> to support the funding of the annual leasing of the minibus. The minibus has been a fabulous addition to school and benefited children across all year groups. 
 
